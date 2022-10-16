@@ -1,0 +1,12 @@
+Hello!
+This is my First Record!
+---------------------------------
+13:09
+Hi!
+Second Record in file!
+---------------------------------
+Time: 13:16
+Hi my diary!
+All works perfect!
+Good app!
+---------------------------------
