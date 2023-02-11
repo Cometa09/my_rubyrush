@@ -1,0 +1,9 @@
+{
+  "person": {
+    "first_name": "Alex",
+    "second_name": "Cometa",
+    "phone": "+7 999 100-99-99",
+    "mail": "alex@mail.ru",
+    "info": "Начинающий программист на RUBY"
+  }
+}
